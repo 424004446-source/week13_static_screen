@@ -3,10 +3,10 @@
 
 # PC16 - Week 13: Static Flutter Login Screen
 
-**Course:** PC16 - Mobile Development with Lab (AY 2026–2027)  
+**Course:** PC16 - Mobile Development with Lab  
 **Institution:** National Teachers College  
-**Student Name:** [First Name Last Name]  
-**Section:** [Your Section]
+**Student Name:** Ferrer, Alquin D.
+**Section:** BSIT 3.3
 
 ---
 
