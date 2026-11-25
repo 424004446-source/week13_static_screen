@@ -47,7 +47,7 @@ class LoginScreen extends StatelessWidget {
             children: [
               const SizedBox(height: 24),
 
-              // Pamagat (Header Section)
+            
               const Text(
                 'Welcome Back',
                 style: TextStyle(
@@ -64,7 +64,7 @@ class LoginScreen extends StatelessWidget {
 
               const SizedBox(height: 32),
 
-              // Username Field
+             
               const Text(
                 'Username:',
                 style: TextStyle(
@@ -96,7 +96,7 @@ class LoginScreen extends StatelessWidget {
 
               const SizedBox(height: 20),
 
-              // Password Field
+           
               const Text(
                 'Password:',
                 style: TextStyle(
@@ -128,7 +128,7 @@ class LoginScreen extends StatelessWidget {
 
               const SizedBox(height: 12),
 
-              // Forgot Password Link
+           
               const Row(
                 mainAxisAlignment: MainAxisAlignment.end,
                 children: [
@@ -145,7 +145,7 @@ class LoginScreen extends StatelessWidget {
 
               const SizedBox(height: 36),
 
-              // Log in Button
+          
               Container(
                 padding: const EdgeInsets.symmetric(vertical: 15),
                 decoration: BoxDecoration(
@@ -165,7 +165,7 @@ class LoginScreen extends StatelessWidget {
 
               const SizedBox(height: 14),
 
-              // Sign Up Button
+         
               Container(
                 padding: const EdgeInsets.symmetric(vertical: 15),
                 decoration: BoxDecoration(
